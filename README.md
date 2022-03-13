@@ -24,6 +24,8 @@ Telegram: [t.me/HeinrichMayer](https://t.me/HeinrichMayer)
 Skype: vanyurin  
 Linkedin: [linkedin.com/in/andreymayer/](https://linkedin.com/in/andreymayer/)  
 GitHub: [github.com/dronnn](https://github.com/Dronnn)
+Facebook: [facebook profile](https://www.facebook.com/dddronnn/)
+Twitter: [twitter profile](https://twitter.com/dddronnn)
 
 ## Personal Information:
 
@@ -80,8 +82,8 @@ Technology used: Objective-C, REST API, Core Data, SQL
 ## the most intresting projects
 
 ### AlfaBank Alfa Mobile Personal Account
-[app store](https://apps.apple.com/RU/app/id353127685?mt=8&pid=AM%20web%20page&c=store%20buttons)
-11.2020 until 03.2022
+[app store](https://apps.apple.com/RU/app/id353127685?mt=8&pid=AM%20web%20page&c=store%20buttons)  
+11.2020 until 03.2022  
 The application for the users of the biggest private bank in Russia.  
 Supported devices: iPhone, iPad
 
@@ -91,25 +93,25 @@ Supported devices: iPhone, iPad
 The app allows users to generate thousands of personalized stickers based on selfies taken.  
 
 ### Yandex.Weather
-06.2017 until 08.2017
-The weather service for the biggest internet company in Russia
-Supported devices: iPhone, iPad"
+06.2017 until 08.2017  
+The weather service for the biggest internet company in Russia  
+Supported devices: iPhone, iPad  
 
 ### SberBank FinAdvisor
-08.2017 until 10.2017
-The financial adviser service for the biggest bank in Russia
-Supported devices: iPhone"
+08.2017 until 10.2017  
+The financial adviser service for the biggest bank in Russia  
+Supported devices: iPhone  
 
 ### Tele 2 TV
-03.2016 until 06.2016
-The streaming service named “Tele 2 TV” for one of the biggest cellular operators in Russia
-Supported devices: iPhone, iPad"
+03.2016 until 06.2016  
+The streaming service named “Tele 2 TV” for one of the biggest cellular operators in Russia  
+Supported devices: iPhone, iPad  
 
 ### Megafone Personal Account Application
-09.2014 until 03.2016
-Worked as the only iOS engineer
-The application for the users of the leading mobile operator in Russia. 
-Supported devices: iPhone, iPad, watch
+09.2014 until 03.2016  
+Worked as the only iOS engineer  
+The application for the users of the leading mobile operator in Russia.  
+Supported devices: iPhone, iPad, watch  
 
 ## education
 
