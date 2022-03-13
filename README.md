@@ -1,9 +1,3 @@
-# Curriculum Vitae
-
-## Andrew Mayer
-**iOS engineer**
-> since 2013 (10 years)
-
 ## Profile (summary):
 - Swift/Objective-C
 - xib/storyboard, in-code, SwiftUI
@@ -23,9 +17,9 @@ Email: dddron@gmail.com
 Telegram: [t.me/HeinrichMayer](https://t.me/HeinrichMayer)  
 Skype: vanyurin  
 Linkedin: [linkedin.com/in/andreymayer/](https://linkedin.com/in/andreymayer/)  
-GitHub: [github.com/dronnn](https://github.com/Dronnn)
-Facebook: [facebook profile](https://www.facebook.com/dddronnn/)
-Twitter: [twitter profile](https://twitter.com/dddronnn)
+GitHub: [github.com/dronnn](https://github.com/Dronnn)  
+Facebook: [facebook profile](https://www.facebook.com/dddronnn/)  
+Twitter: [twitter profile](https://twitter.com/dddronnn)  
 
 ## Personal Information:
 
@@ -38,7 +32,7 @@ Gender: male
 
 ## Practical experience 
 
-### [Alfabank](https://alfabank.ru) (product company)
+### [Alfabank](https://alfabank.ru) (product company)  
 since 11.2020	middle iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, PR reviews  
 Technology used: Swift, UIKit, YARCH-architecture  
@@ -85,7 +79,7 @@ Technology used: Objective-C, REST API, Core Data, SQL
 [app store](https://apps.apple.com/RU/app/id353127685?mt=8&pid=AM%20web%20page&c=store%20buttons)  
 11.2020 until 03.2022  
 The application for the users of the biggest private bank in Russia.  
-Supported devices: iPhone, iPad
+Supported devices: iPhone, iPad  
 
 ### Mirror: Avatar & Sticker Maker
 [app store](https://apps.apple.com/us/app/mirror-avatar-sticker-maker/id1199126741)  
@@ -140,7 +134,7 @@ did a computer science class,
 did a computer languages class  
 
 ## Programming languages:
-Swift, Objective-C
+Swift, Objective-C  
 
 ## Software Tools and Standards:
 Xcode, Profiler and iOS SDKs, cocoapods, carthage, pm, Git, bitbucket, jira, confluence.  
