@@ -11,8 +11,8 @@
 - Git, Jira, Confluence
 
 ## Contact details:
-353290, Goryachiy Kluch, Krasnodarskiy kray, Russia  
-Phone: +7-918-256-03-80  
+Yerevan, Armenia  
+Phone: +374-43-057-447  
 Email: dddron@gmail.com  
 Telegram: [t.me/HeinrichMayer](https://t.me/HeinrichMayer)  
 Skype: vanyurin  
@@ -32,13 +32,18 @@ Gender: male
 
 ## Practical experience 
 
+### [preezma](https://preezma.com) (outsource/outstaff company)  
+since 04.2022	senior iOS Developer (office position)  
+development application, maintenance, refactoring, bug-fix, PR reviews  
+Technology used: Swift, UIKit, REST API, Realm, voice recognition, MVP-architecture  
+
 ### [Alfabank](https://alfabank.ru) (product company)  
-since 11.2020	middle iOS Developer (remote position)  
+11.2020 until 04.2022	senior iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, PR reviews  
 Technology used: Swift, UIKit, YARCH-architecture  
 
 ### 8bit (product company)
-11.2019 11.2020 iOS Developer (remote position)  
+11.2019 until 11.2020 iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, architecture design, PR reviews.  
 Technology used: Swift, UIKit, REST API, MVC  
 
@@ -75,9 +80,15 @@ Technology used: Objective-C, REST API, Core Data, SQL
 
 ## the most intresting projects
 
+### CocoonWeaver
+[app store](https://apps.apple.com/ru/app/cocoonweaver-voice-your-self/id1464144628?l=en)
+since 04.2022 until 12.2022
+An application for cataloging audio recordings
+Supported devices: iPhone, Apple Watch
+
 ### AlfaBank Alfa Mobile Personal Account
 [app store](https://apps.apple.com/RU/app/id353127685?mt=8&pid=AM%20web%20page&c=store%20buttons)  
-11.2020 until 03.2022  
+11.2020 until 03.2022
 The application for the users of the biggest private bank in Russia.  
 Supported devices: iPhone, iPad  
 
@@ -142,6 +153,8 @@ Xcode, Profiler and iOS SDKs, cocoapods, carthage, pm, Git, bitbucket, jira, con
 ### Languages
 - English: B2-C1 (upper-intermediate)
 - Russian: native
+- German: elementary
+- Armenian: elementary
  
 ## about me professionally  
 hi, I'm Andrew, and I'm an iOS engineer.  
