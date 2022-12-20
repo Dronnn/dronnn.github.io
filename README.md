@@ -80,11 +80,11 @@ Technology used: Objective-C, REST API, Core Data, SQL
 
 ## the most intresting projects
 
-### CocoonWeaver
-[app store](https://apps.apple.com/ru/app/cocoonweaver-voice-your-self/id1464144628?l=en)
-since 04.2022 until 12.2022
-An application for cataloging audio recordings
-Supported devices: iPhone, Apple Watch
+### CocoonWeaver  
+[app store](https://apps.apple.com/ru/app/cocoonweaver-voice-your-self/id1464144628?l=en)  
+since 04.2022 until 12.2022  
+An application for cataloging audio recordings  
+Supported devices: iPhone, Apple Watch  
 
 ### AlfaBank Alfa Mobile Personal Account
 [app store](https://apps.apple.com/RU/app/id353127685?mt=8&pid=AM%20web%20page&c=store%20buttons)  
