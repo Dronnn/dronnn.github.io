@@ -32,7 +32,7 @@ Gender: male
 
 ## Practical experience 
 
-### [preezma](https://preezma.com) (outsource/outstaff company)  
+### [Preezma](https://preezma.com) (outsource/outstaff company)  
 since 04.2022	senior iOS Developer (office position)  
 development application, maintenance, refactoring, bug-fix, PR reviews  
 Technology used: Swift, UIKit, REST API, Realm, voice recognition, MVP-architecture  
@@ -47,7 +47,7 @@ Technology used: Swift, UIKit, YARCH-architecture
 development application, maintenance, refactoring, bug-fix, architecture design, PR reviews.  
 Technology used: Swift, UIKit, REST API, MVC  
 
-### Mirror-AI located in California (sturtup, ML/AR)
+### [Mirror-AI](https://www.mirror-ai.com) located in California (sturtup, ML/AR)
 06.2018 until 11.2019	iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, PR reviews.  
 Technology used: Swift, REST API, Core Data, AR  
@@ -68,7 +68,7 @@ development applications from scratch, maintenance, refactoring, bug-fix, archit
 Interviewing and screening candidates. Evaluation of tests on the developer's position, supervising interns.  
 Technology used: Objective-C, Swift, REST API, Realm, CoreAnimation  
 
-### UnrealMojo (outsource company)
+### [UnrealMojo](https://unrealmojo.com) (outsource company)
 09.2014 until 03.2016	middle iOS Developer (remote position)  
 development applications from scratch, maintenance, refactoring, bug-fix, assessment of labor.  
 Technology used: Objective-C, REST API, CoreData, WatchKit  
@@ -112,7 +112,7 @@ Supported devices: iPhone
 The streaming service named “Tele 2 TV” for one of the biggest cellular operators in Russia  
 Supported devices: iPhone, iPad  
 
-### Megafone Personal Account Application
+### [Megafone Personal Account Application](https://apps.apple.com/ru/app/%D0%BC%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD/id778681735?l=en)
 09.2014 until 03.2016  
 Worked as the only iOS engineer  
 The application for the users of the leading mobile operator in Russia.  
