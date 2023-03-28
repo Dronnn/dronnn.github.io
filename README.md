@@ -33,58 +33,58 @@ Gender: male
 ## Practical experience 
 
 ### [Yandex Practicum](https://practicum.yandex.ru) (educational cources)  
-since 04.2022 until now	senior iOS Developer (office position)  
+since 04.2022 senior iOS Developer (office position)  
 support students, webinars, refactoring, bug-fix, PR reviews  
 Technology used: Swift, UIKit, CoreData, MVVM-architecture  
 
 ### [Tinkoff](https://tinkoff.ru) (product company)  
-since 01.2023 until now	senior iOS Developer (remote position)  
+since 01.2023 senior iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, PR reviews  
 Technology used: Swift, UIKit, REST API, CoreData, MVP-architecture  
 
 ### [Preezma](https://preezma.com) (outsource/outstaff company)  
-from 04.2022 until 01.2023	senior iOS Developer (office position)  
+04.2022 - 01.2023	senior iOS Developer (office position)  
 development application, maintenance, refactoring, bug-fix, PR reviews  
 Technology used: Swift, UIKit, REST API, Realm, voice recognition, MVP-architecture  
 
 ### [Alfabank](https://alfabank.ru) (product company)  
-11.2020 until 04.2022	senior iOS Developer (remote position)  
+11.2020 - 04.2022	senior iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, PR reviews  
 Technology used: Swift, UIKit, YARCH-architecture  
 
 ### 8bit (product company)
-11.2019 until 11.2020 iOS Developer (remote position)  
+11.2019 - 11.2020 iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, architecture design, PR reviews.  
 Technology used: Swift, UIKit, REST API, MVC  
 
 ### [Mirror-AI](https://www.mirror-ai.com) located in California (sturtup, ML/AR)
-06.2018 until 11.2019	iOS Developer (remote position)  
+06.2018 - 11.2019	iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, PR reviews.  
 Technology used: Swift, REST API, Core Data, AR  
 
 ### Ronte LTD located in Berlin (product company)
-10.2017 until 06.2018	iOS Developer (remote position)  
+10.2017 - 06.2018	iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, assessment of labor  
 Technology used: Swift, REST API, Realm  
 
 ### [RedMadRobot](https://redmadrobot.ru) (outsource company)
-07.2016 until 10.2017	iOS Developer (remote position)  
+07.2016 - 10.2017	iOS Developer (remote position)  
 development applications from scratch, maintenance, refactoring, bug-fix.  
 Technology used: Swift, REST API, RxSwift  
 
 ### [Globus LTD](https://globus-ltd.ru/en/) (outsource company)
-03.2016 until 06.2017	iOS Developer (remote position)  
+03.2016 - 06.2017	iOS Developer (remote position)  
 development applications from scratch, maintenance, refactoring, bug-fix, architecture design, PR reviews.  
 Interviewing and screening candidates. Evaluation of tests on the developer's position, supervising interns.  
 Technology used: Objective-C, Swift, REST API, Realm, CoreAnimation  
 
 ### [UnrealMojo](https://unrealmojo.com) (outsource company)
-09.2014 until 03.2016	middle iOS Developer (remote position)  
+09.2014 - 03.2016	middle iOS Developer (remote position)  
 development applications from scratch, maintenance, refactoring, bug-fix, assessment of labor.  
 Technology used: Objective-C, REST API, CoreData, WatchKit  
 
 ### [Zennex](https://zennex.ru/en) (outsource company)
-02.2013 until 08.2014	"junior iOS Developer (remote position)  
+02.2013 - 08.2014	"junior iOS Developer (remote position)  
 development applications from scratch, maintenance, refactoring, bug-fix, assessment of labor.  
 Technology used: Objective-C, REST API, Core Data, SQL  
 
@@ -92,38 +92,38 @@ Technology used: Objective-C, REST API, Core Data, SQL
 
 ### CocoonWeaver  
 [app store](https://apps.apple.com/ru/app/cocoonweaver-voice-your-self/id1464144628?l=en)  
-from 04.2022 until 12.2022  
+04.2022 - 12.2022  
 An application for cataloging audio recordings  
 Supported devices: iPhone, Apple Watch  
 
 ### AlfaBank Alfa Mobile Personal Account
 [app store](https://apps.apple.com/RU/app/id353127685?mt=8&pid=AM%20web%20page&c=store%20buttons)  
-11.2020 until 03.2022
+11.2020 - 03.2022
 The application for the users of the biggest private bank in Russia.  
 Supported devices: iPhone, iPad  
 
 ### Mirror: Avatar & Sticker Maker
 [app store](https://apps.apple.com/us/app/mirror-avatar-sticker-maker/id1199126741)  
-06.2018 until 11.2019	 
+06.2018 - 11.2019	 
 The app allows users to generate thousands of personalized stickers based on selfies taken.  
 
 ### Yandex.Weather
-06.2017 until 08.2017  
+06.2017 - 08.2017  
 The weather service for the biggest internet company in Russia  
 Supported devices: iPhone, iPad  
 
 ### SberBank FinAdvisor
-08.2017 until 10.2017  
+08.2017 - 10.2017  
 The financial adviser service for the biggest bank in Russia  
 Supported devices: iPhone  
 
 ### Tele 2 TV
-03.2016 until 06.2016  
+03.2016 - 06.2016  
 The streaming service named “Tele 2 TV” for one of the biggest cellular operators in Russia  
 Supported devices: iPhone, iPad  
 
 ### [Megafone Personal Account Application](https://apps.apple.com/ru/app/%D0%BC%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD/id778681735?l=en)
-09.2014 until 03.2016  
+09.2014 - 03.2016  
 Worked as the only iOS engineer  
 The application for the users of the leading mobile operator in Russia.  
 Supported devices: iPhone, iPad, watch  
@@ -131,26 +131,26 @@ Supported devices: iPhone, iPad, watch
 ## education
 
 Krasnoyarsk state pedagogical university named V.P.Astafiev  
-09.2000 until 07.2003	 
+09.2000 - 07.2003	 
 Teacher of Computer science;  
 candidate to doctorate of pedagogical sciences  
 university classes  
 
 Krasnoyarsk state pedagogical university named V.P.Astafiev  
-09.1995 until 07.2000	 
+09.1995 - 07.2000	 
 Teacher of computer science and economics. 
 specialist  
 university classes  
 
 Krasnoyarsk state school #84  
-09.1985 until 06.1995	 
+09.1985 - 06.1995	 
 school student  
 
 ## Side Jobs and other practical experience		
 
 Krasnoyarsk state pedagogical university named V.P.Astafiev  
 Associated professor of computer science  
-09.2000 until 08.2010	 
+09.2000 - 08.2010	 
 did a computer science class,  
 did a computer languages class  
 
@@ -195,7 +195,7 @@ and in total more than 30 projects and multiple small projects.
 why can i be good for the position of an iOS engineer:
 - i’ve been working as an iOS developer more than 10 years. 
 - i worked with both languages in apple ecosystem. 
-- i've been working from iOS 5. 
+- i've been working since iOS 5. 
 - i wrote applications for all apple mobile devices - iphone, ipad, apple watch. 
 - for me, working within the apple ecosystem is not just a job, i’m a fan of it, i use all apple products in my everyday life and i love it.
 
