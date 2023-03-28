@@ -32,8 +32,18 @@ Gender: male
 
 ## Practical experience 
 
+### [Yandex Practicum](https://practicum.yandex.ru) (educational cources)  
+since 04.2022 until now	senior iOS Developer (office position)  
+support students, webinars, refactoring, bug-fix, PR reviews  
+Technology used: Swift, UIKit, CoreData, MVVM-architecture  
+
+### [Tinkoff](https://tinkoff.ru) (product company)  
+since 01.2023 until now	senior iOS Developer (remote position)  
+development application, maintenance, refactoring, bug-fix, PR reviews  
+Technology used: Swift, UIKit, REST API, CoreData, MVP-architecture  
+
 ### [Preezma](https://preezma.com) (outsource/outstaff company)  
-since 04.2022	senior iOS Developer (office position)  
+from 04.2022 until 01.2023	senior iOS Developer (office position)  
 development application, maintenance, refactoring, bug-fix, PR reviews  
 Technology used: Swift, UIKit, REST API, Realm, voice recognition, MVP-architecture  
 
@@ -82,7 +92,7 @@ Technology used: Objective-C, REST API, Core Data, SQL
 
 ### CocoonWeaver  
 [app store](https://apps.apple.com/ru/app/cocoonweaver-voice-your-self/id1464144628?l=en)  
-since 04.2022 until 12.2022  
+from 04.2022 until 12.2022  
 An application for cataloging audio recordings  
 Supported devices: iPhone, Apple Watch  
 
@@ -185,7 +195,7 @@ and in total more than 30 projects and multiple small projects.
 why can i be good for the position of an iOS engineer:
 - i’ve been working as an iOS developer more than 10 years. 
 - i worked with both languages in apple ecosystem. 
-- i've been working since iOS 5. 
+- i've been working from iOS 5. 
 - i wrote applications for all apple mobile devices - iphone, ipad, apple watch. 
 - for me, working within the apple ecosystem is not just a job, i’m a fan of it, i use all apple products in my everyday life and i love it.
 
