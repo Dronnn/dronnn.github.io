@@ -7,8 +7,8 @@
 - Client-server application(REST API, JSON/XML)
 - Multitasking/Multithreading  
 - Animations, ARKit
-- Xcode, Profiler, cocoapods, carthage, pm 
-- Git, Jira, Confluence
+- Xcode, Profiler, cocoapods, carthage, spm
+- Git, Jira, Confluence, circle-ci, fastlane
 
 ## Contact details:
 Yerevan, Armenia  
@@ -33,12 +33,12 @@ Gender: male
 ## Practical experience 
 
 ### [Yandex Practicum](https://practicum.yandex.ru) (educational cources)  
-since 04.2022 senior iOS Developer (office position)  
-support students, webinars, refactoring, bug-fix, PR reviews  
+since 01.2023 tutor of iOS Development cources (remote position)  
+support students, webinars, code review  
 Technology used: Swift, UIKit, CoreData, MVVM-architecture  
 
 ### [Tinkoff](https://tinkoff.ru) (product company)  
-since 01.2023 senior iOS Developer (remote position)  
+01.2023 - 04.2023 senior iOS Developer (remote position)  
 development application, maintenance, refactoring, bug-fix, PR reviews  
 Technology used: Swift, UIKit, REST API, CoreData, MVP-architecture  
 
