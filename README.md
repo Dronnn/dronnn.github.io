@@ -44,8 +44,8 @@ I've worked with companies of all shapes and sizes, and my code has reached mill
 ### [Yandex Practicum](https://practicum.yandex.ru) (educational cources)  
 📅 since 01.2023  
 👨‍💻 Tutor of iOS Development Courses (Remote Position)  
-Responsibilities: Student support, conducting webinars, code review
-Technologies Used: Swift, UIKit, CoreData, MVVM-architecture
+Responsibilities: Student support, conducting webinars, code review  
+Technologies used: Swift, UIKit, CoreData, MVVM-architecture
 
 ### [Tinkoff](https://tinkoff.ru) (product company)  
 📅 01.2023 - 04.2023  
@@ -176,9 +176,11 @@ Worked as the only iOS engineer
 
 ## Professional Journey  
 
-🚀 Throughout my career, my roles across various companies have revolved around new feature implementation, codebase maintenance, refactoring, and bug-fixing. I've had the opportunity to collaborate with backend, design, and tester teams to build more efficient APIs and architectures. For instance, I've had in-depth discussions on human interface guidelines with designers.
+🚀 Key Responsibilities  
 
-🎯 Key Responsibilities
+Throughout my career, my roles across various companies have revolved around new feature implementation, codebase maintenance, refactoring, and bug-fixing. I've had the opportunity to collaborate with backend, design, and tester teams to build more efficient APIs and architectures. For instance, I've had in-depth discussions on human interface guidelines with designers.  
+
+🎯 Additional Responsibilities  
 
 In addition to my core duties, I've also been involved in the hiring process, screening and interviewing candidates, and evaluating their test tasks. On a few occasions, I've supervised interns, leveraging my teaching experience to guide them effectively.
 
