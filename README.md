@@ -3,24 +3,6 @@
 I'm Andrew, an iOS engineer who's been living and breathing Apple's ecosystem for over 11 years.  
 I've worked with companies of all shapes and sizes, and my code has reached millions of users worldwide.
 
-
-## Personal Snapshot
-
-🎂 Born on 14/11/1978 in Krasnoyarsk, Russia  
-🇩🇪 German Nationality & 🇷🇺 Russian Citizenship  
-👨‍👩‍👦‍👦 Happily married with three boys  
-
-
-## Toolbox
-
-🍏 Languages: Swift, Objective-C  
-🎨 User Interface: xib/storyboard, in-code, SwiftUI, iOS-SDKs  
-🖼️ Frameworks: iOS-SDKs, WatchKit-SDK, ARKit  
-🏗️ Architectures: MVC, MVVM, VIPER, CleanSwift, Yarch  
-🗃️ Databases: CoreData, Realm, SQL  
-🌐 Other: REST API, JSON/XML, Multitasking/Multithreading, Animations  
-🛠️ Tools: Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, fastlane  
-
 ## Get in Touch
 
 📍 Yerevan, Armenia  
@@ -33,14 +15,22 @@ I've worked with companies of all shapes and sizes, and my code has reached mill
 📘 Facebook: [facebook profile](https://www.facebook.com/dddronnn/)  
 🐦 Twitter: [twitter profile](https://twitter.com/dddronnn)  
 
-## Personal Information:
+## Toolbox
 
-Date of birth: 14/11/1978  
-Place of birth: Krasnoyarsk, Russia  
-Nationality: German  
-Citizenship: Russian  
-Marital Status: married and we have three boys  
-Gender: male  
+🍏 Languages: Swift, Objective-C  
+🎨 User Interface: xib/storyboard, in-code, SwiftUI, iOS-SDKs  
+🖼️ Frameworks: iOS-SDKs, WatchKit-SDK, ARKit  
+🏗️ Architectures: MVC, MVVM, VIPER, CleanSwift, Yarch  
+🗃️ Databases: CoreData, Realm, SQL  
+🌐 Other: REST API, JSON/XML, Multitasking/Multithreading, Animations  
+🛠️ Tools: Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, fastlane  
+
+## Personal Snapshot
+
+🎂 Born on 14/11/1978 in Krasnoyarsk, Russia  
+🇩🇪 German Nationality & 🇷🇺 Russian Citizenship  
+👨‍👩‍👦‍👦 Happily married with three boys  
+🙋‍♂️ Male  
 
 ## Language Proficiency
 
@@ -48,7 +38,6 @@ Gender: male
 🇷🇺 Russian: Native  
 🇩🇪 German: Elementary  
 🇦🇲 Armenian: Elementary  
-
 
 ## Practical experience 
 
