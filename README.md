@@ -1,3 +1,7 @@
+[The short CV in pdf:](http://dronnn.github.io/andrew-mayer-cv-5-2-short.pdf)  
+[The full CV in pdf:](http://dronnn.github.io/andrew-mayer-cv-5-2-full.pdf)  
+[The cover letter in pdf:](http://dronnn.github.io/cover%20letter.pdf)  
+
 # Cover letter
 
 Dear Hiring Manager,
