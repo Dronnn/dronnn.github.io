@@ -13,7 +13,7 @@ Best regards, Andrew
 
 # In a nutshell
 
- **Andrew Mayer**
+**Andrew Mayer**
 
 **iOS Engineer**
 
@@ -23,7 +23,8 @@ Best regards, Andrew
 - LinkedIn: [linkedin.com/in/andreymayer/](https://linkedin.com/in/andreymayer/)
 - GitHub: [github.com/dronnn](https://github.com/Dronnn)
 
-**Profile**
+**Profile**  
+
 iOS engineer with over 11 years of experience in the Apple ecosystem. Proficient in Swift, Objective-C, and various iOS SDKs and architectures. Worked with companies of all sizes, with code reaching millions of users worldwide.
 
 **Skills**
@@ -58,7 +59,8 @@ iOS engineer with over 11 years of experience in the Apple ecosystem. Proficient
 - Associated Professor of Computer Science, Krasnoyarsk State Pedagogical University named V.P.Astafiev (09.2000 - 07.2003)
 - Teacher of Computer Science and Economics, Krasnoyarsk State Pedagogical University named V.P.Astafiev (09.1995 - 07.2000)
 
-**Personal**
+**Personal**  
+
 Happily married with three boys. Enjoys traveling, learning new languages, reading, and watching movies in his spare time.
 
 
