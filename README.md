@@ -1,8 +1,4 @@
-Hi! My name is Andrew.  
-Please, unfold one of options:
-
-<details>
-  <summary>Cover letter</summary>
+# Cover letter
 
 Dear Hiring Manager,
 I hope this message finds you well. I'm Andrew, an iOS engineer with over 11 years of experience in Apple's ecosystem. I have worked with companies of all sizes, from startups to large corporations, and my code has reached millions of users worldwide.  
@@ -14,10 +10,8 @@ Please find my resume attached for your reference. I am confident that my skills
 Please feel free to contact me at any time via email (dddron@gmail.com) or phone (+374-43-057-447) if you have any further questions or require additional information. I look forward to the possibility of working with you.
 
 Best regards, Andrew
-</details>
-  
-<details>
-  <summary>In a nutshell</summary>
+
+# In a nutshell
 
  **Andrew Mayer**
 
@@ -66,10 +60,10 @@ iOS engineer with over 11 years of experience in the Apple ecosystem. Proficient
 
 **Personal**
 Happily married with three boys. Enjoys traveling, learning new languages, reading, and watching movies in his spare time.
-</details>
 
-<details>
-  <summary>Full length</summary>
+
+
+# Full length
 
 ## Table of Contents
 
@@ -308,4 +302,4 @@ When I'm not coding, you can find me traveling, learning new languages, diving i
  
  
  
-</details>
+
