@@ -1,3 +1,17 @@
+## Table of Contents
+
+- [Hello!](#hello)
+- [Get in Touch](#get-in-touch)
+- [Toolbox](#toolbox)
+- [Personal Snapshot](#personal-snapshot)
+- [Language proficiency](#language-proficiency)
+- [Practical Experience](#practical-experience)
+- [The most intresting projects](#the-most-intresting-projects)
+- [Education](#education)
+- [Side Jobs and Other Practical Experience](#side-jobs-and-other-practical-experience)
+- [Professional Journey](#professional-journey)
+- [Off the Clock](#off-the-clock)
+
 ## Hello!  
 
 I'm Andrew, an iOS engineer who's been living and breathing Apple's ecosystem for over 11 years.  
