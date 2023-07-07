@@ -1,3 +1,76 @@
+Hi! My name is Andrew.  
+Please, unfold one of options:
+
+<details>
+  <summary>Cover letter</summary>
+
+Dear Hiring Manager,
+I hope this message finds you well. I'm Andrew, an iOS engineer with over 11 years of experience in Apple's ecosystem. I have worked with companies of all sizes, from startups to large corporations, and my code has reached millions of users worldwide.  
+With a proven track record of successful projects, I've honed my skills in various languages, including Swift and Objective-C. I am adept at user interface design, with experience in xib/storyboard, in-code, SwiftUI, and iOS-SDKs. I'm familiar with several architectural patterns such as MVC, MVVM, VIPER, CleanSwift, and Yarch. Over the years, I have gained experience in using databases like CoreData, Realm, and SQL, and tools such as Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, and fastlane.  
+My career journey has provided me with diverse experiences, including conducting computer science and programming classes at a university for over 15 years. This experience enriched my understanding of the field and honed my problem-solving skills. In addition, my involvement in hiring processes, screening and interviewing candidates, evaluating their test tasks, and supervising interns in a professional setting has also broadened my skills set.  
+I have had the privilege to contribute to over 30 projects, some of which are used by millions of users daily. Among them are the "Megafon Personal Account" app for one of Russia's leading mobile operators and the "Tele 2 TV" streaming service.  
+I take pride in being able to collaborate effectively with backend, design, and tester teams, always ensuring that our end product meets the highest standards of quality. As a constant learner, I remain updated with the latest industry trends and innovations, always looking for new ways to create efficient APIs and architectures.  
+Please find my resume attached for your reference. I am confident that my skills and experiences make me a strong candidate for the iOS developer position in your organization. I'm excited about the possibility of bringing my unique blend of skills and experience to your team.  
+Please feel free to contact me at any time via email (dddron@gmail.com) or phone (+374-43-057-447) if you have any further questions or require additional information. I look forward to the possibility of working with you.
+
+Best regards, Andrew
+</details>
+  
+<details>
+  <summary>In a nutshell</summary>
+
+ **Andrew Mayer**
+
+**iOS Engineer**
+
+**Contact Information**
+- Location: Yerevan, Armenia
+- Email: dddron@gmail.com
+- LinkedIn: [linkedin.com/in/andreymayer/](https://linkedin.com/in/andreymayer/)
+- GitHub: [github.com/dronnn](https://github.com/Dronnn)
+
+**Profile**
+iOS engineer with over 11 years of experience in the Apple ecosystem. Proficient in Swift, Objective-C, and various iOS SDKs and architectures. Worked with companies of all sizes, with code reaching millions of users worldwide.
+
+**Skills**
+- Languages: Swift, Objective-C
+- User Interface: xib/storyboard, in-code, SwiftUI, iOS-SDKs
+- Frameworks: iOS-SDKs, WatchKit-SDK, ARKit
+- Architectures: MVC, MVVM, VIPER, CleanSwift, Yarch
+- Databases: CoreData, Realm, SQL
+- Other: REST API, JSON/XML, Multitasking/Multithreading, Animations
+- Tools: Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, fastlane
+
+**Language Proficiency**
+- English: Upper-Intermediate (B2-C1)
+- Russian: Native
+- German: Elementary
+- Armenian: Elementary
+
+**Experience**
+- Tutor of iOS Development Courses, Yandex Practicum (since 01.2023)
+- Senior iOS Developer, Tinkoff (01.2023 - 04.2023)
+- Senior iOS Developer, Preezma (04.2022 - 01.2023)
+- Senior iOS Developer, Alfabank (11.2020 - 04.2022)
+- iOS Developer, 8bit (11.2019 - 11.2020)
+- iOS Developer, Mirror-AI (06.2018 - 11.2019)
+- iOS Developer, Ronte LTD (10.2017 - 06.2018)
+- iOS Developer, RedMadRobot (07.2016 - 10.2017)
+- iOS Developer, Globus LTD (03.2016 - 06.2017)
+- Middle iOS Developer, UnrealMojo (09.2014 - 03.2016)
+- Junior iOS Developer, Zennex (02.2013 - 08.2014)
+
+**Education**
+- Associated Professor of Computer Science, Krasnoyarsk State Pedagogical University named V.P.Astafiev (09.2000 - 07.2003)
+- Teacher of Computer Science and Economics, Krasnoyarsk State Pedagogical University named V.P.Astafiev (09.1995 - 07.2000)
+
+**Personal**
+Happily married with three boys. Enjoys traveling, learning new languages, reading, and watching movies in his spare time.
+</details>
+
+<details>
+  <summary>Full length</summary>
+
 ## Table of Contents
 
 - [Hello!](#hello)
@@ -235,3 +308,4 @@ When I'm not coding, you can find me traveling, learning new languages, diving i
  
  
  
+</details>
