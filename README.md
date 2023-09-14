@@ -1,10 +1,13 @@
 [The short CV in pdf:](http://dronnn.github.io/andrew-mayer-cv-5-2-short.pdf)  
 [The full CV in pdf:](http://dronnn.github.io/andrew-mayer-cv-5-2-full.pdf)  
 [The cover letter in pdf:](http://dronnn.github.io/cover%20letter.pdf)  
+[The HH resume](https://hh.ru/resume/88281879ff01211df20039ed1f6a506e6e694a)  
 
 # Cover letter
 
-Dear Hiring Manager,
+<details>
+  <summary>Dear Hiring Manager,</summary>
+  
 I hope this message finds you well. I'm Andrew, an iOS engineer with over 11 years of experience in Apple's ecosystem. I have worked with companies of all sizes, from startups to large corporations, and my code has reached millions of users worldwide.  
 With a proven track record of successful projects, I've honed my skills in various languages, including Swift and Objective-C. I am adept at user interface design, with experience in xib/storyboard, in-code, SwiftUI, and iOS-SDKs. I'm familiar with several architectural patterns such as MVC, MVVM, VIPER, CleanSwift, and Yarch. Over the years, I have gained experience in using databases like CoreData, Realm, and SQL, and tools such as Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, and fastlane.  
 My career journey has provided me with diverse experiences, including conducting computer science and programming classes at a university for over 15 years. This experience enriched my understanding of the field and honed my problem-solving skills. In addition, my involvement in hiring processes, screening and interviewing candidates, evaluating their test tasks, and supervising interns in a professional setting has also broadened my skills set.  
@@ -12,6 +15,8 @@ I have had the privilege to contribute to over 30 projects, some of which are us
 I take pride in being able to collaborate effectively with backend, design, and tester teams, always ensuring that our end product meets the highest standards of quality. As a constant learner, I remain updated with the latest industry trends and innovations, always looking for new ways to create efficient APIs and architectures.  
 Please find my resume attached for your reference. I am confident that my skills and experiences make me a strong candidate for the iOS developer position in your organization. I'm excited about the possibility of bringing my unique blend of skills and experience to your team.  
 Please feel free to contact me at any time via email (dddron@gmail.com) or phone (+374-43-057-447) if you have any further questions or require additional information. I look forward to the possibility of working with you.
+  
+</details>
 
 Best regards, Andrew
 
@@ -132,51 +137,63 @@ I've worked with companies of all shapes and sizes, and my code has reached mill
 
 ### [Yandex Practicum](https://practicum.yandex.ru) (educational cources)  
 📅 since 01.2023  
-👨‍💻 Tutor of iOS Development Courses (Remote Position)  
-Responsibilities: Student support, conducting webinars, code review  
-Technologies used: Swift, UIKit, CoreData, MVVM-architecture
+👨‍💻 Tutor and Author of an iOS Development Courses (Remote Position)  
+Responsibilities: Student support, conducting webinars, code review.  
+Technologies used: Swift, UIKit, CoreData, MVVM-architecture.
+Personal results: as an author, I've revamped and continuously updated a Core Data chapter, addressing critical gaps in the course material. This led to curriculum enhancements that notably elevated the course's clarity and effectiveness. I've also reworked half the Core Data chapter content and optimized a similar proportion of demo projects. In my role as a tutor, I've deepened students' understanding of Collection view, Core Data, localization, color scheeemes, testing, etc. through webinars, which have seen growing attendance. I'm confident that my interactive reviews, answers, and feedback have boosted student performance by about 25%.  
 
 ### [Tinkoff](https://tinkoff.ru) (product company)  
 📅 01.2023 - 04.2023  
 👨‍💻 Senior iOS Developer (Remote Position)  
-Responsibilities: development application, maintenance, refactoring, bug-fix, PR reviews  
-Technologies used: Swift, UIKit, REST API, CoreData, MVP-architecture  
+Projects: NDA  
+Responsibilities: development application, maintenance, refactoring, bug-fix, PR reviews.  
+Technologies used: Swift, UIKit, REST API, CoreData, MVP-architecture.  
+Personal results: Introduced support for deeplinks as a key feature, along with various UI enhancements.    
 
 ### [Preezma](https://preezma.com) (outsource/outstaff company)  
-📅 04.2022 - 01.2023  
+📅 04.2022 - 01.2023 and since 05.2023  
 👨‍💻 Senior iOS Developer (Office Position)  
-Responsibilities: development application, maintenance, refactoring, bug-fix, PR reviews  
-Technologies used: Swift, UIKit, REST API, Realm, voice recognition, MVP-architecture  
+Projects:  CocoonWeaver - the voice notes app.  
+Responsibilities: development application, maintenance, refactoring, bug-fix, PR reviews.  
+Technologies used: Swift, UIKit, async/await, compositional layout, REST API, Realm, voice recognition, MVP-architecture.  
+Personal results:  Remastered Key features such as main screen (added universality to reuse), added many key features, such as sub.  
 
 ### [Alfabank](https://alfabank.ru) (product company)  
 📅 11.2020 - 04.2022  
 👨‍💻 Senior iOS Developer (Remote Position)  
-Responsibilities: development application, maintenance, refactoring, bug-fix, PR reviews  
-Technologies used: Swift, UIKit, YARCH-architecture  
+Projects:  Swift-payments, QR-payments.  
+Responsibilities: development application, maintenance, refactoring, bug-fix, PR reviews.  
+Technologies used: Swift, REST API, UIKit, YARCH-architecture.  
+Personal results: Implemented Swift-based payment features and added functionalities like document uploads and new field integrations. Modernized QR-payment system using an updated library.  
 
 ### 8bit (product company)
 📅 11.2019 - 11.2020  
 👨‍💻 iOS Developer (Remote Position)  
+Projects: eight VPN projects form scratch, walpaper app form scratch, etc.  
 Responsibilities: development application, maintenance, refactoring, bug-fix, architecture design, PR reviews.  
-Technologies used: Swift, UIKit, REST API, MVC  
+Technologies used: Swift, UIKit, REST API, MVC, CoreAnimation.  
+Personal results: Was contributing to more then ten projects all from scratch. My responsibilities ranged from architecture design to PR reviews. Personally, I made a significant impact by introducing various approaches and architectural designs, enhancing the project's overall quality.  
 
 ### [Mirror-AI](https://www.mirror-ai.com) located in California (sturtup, ML/AR)
 📅 06.2018 - 11.2019  
 👨‍💻 iOS Developer (Remote Position)  
+Projects: The Personalised emoji stickers app.  
 Responsibilities: development application, maintenance, refactoring, bug-fix, PR reviews.  
-Technologies used: Swift, REST API, Core Data, AR  
+Technologies used: Swift, REST API, Core Data, AR.  
+Personal results: Successfully relaunched a completely revamped app on the store. Introduced key features like custom emojis, sticker packs, and depth and facial mapping for selfies.
 
 ### Ronte LTD located in Berlin (product company)
 📅 10.2017 - 06.2018  
 👨‍💻 iOS Developer (Remote Position)  
-Responsibilities: development application, maintenance, refactoring, bug-fix, assessment of labor  
-Technologies used: Swift, REST API, Realm  
+Projects: The messenger part of a b2b app.  
+Responsibilities: development application, maintenance, refactoring, bug-fix, assessment of labor.  
+Technologies used: Swift, UIKit, REST API, Realm, Viper.  
 
 ### [RedMadRobot](https://redmadrobot.ru) (outsource company)
 📅 07.2016 - 10.2017  
 👨‍💻 iOS Developer (Remote Position)  
 Responsibilities: development applications from scratch, maintenance, refactoring, bug-fix.  
-Technologies used: Swift, REST API, RxSwift  
+Technologies used: Swift, REST API, RxSwift.  
 
 ### [Globus LTD](https://globus-ltd.ru/en/) (outsource company)
 📅 03.2016 - 06.2017  
