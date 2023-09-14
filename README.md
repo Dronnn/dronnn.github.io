@@ -1,19 +1,12 @@
 # Files with CV
 
-<details>
-  <summary>Files with CV (open the dropdown)</summary>
-
 [The short CV in pdf:](http://dronnn.github.io/andrew-mayer-cv-5-2-short.pdf)  
 [The full CV in pdf:](http://dronnn.github.io/andrew-mayer-cv-5-2-full.pdf)  
 [The cover letter in pdf:](http://dronnn.github.io/cover%20letter.pdf)  
-</details>
 
 # Cover letter
 
-<details>
-  <summary>Here is the cover letter (open the dropdown)</summary>
-
-Dear Hiring Manager,
+Dear Hiring Manager,  
   
 I hope this message finds you well. I'm Andrew, an iOS engineer with over 11 years of experience in Apple's ecosystem. I have worked with companies of all sizes, from startups to large corporations, and my code has reached millions of users worldwide.  
 With a proven track record of successful projects, I've honed my skills in various languages, including Swift and Objective-C. I am adept at user interface design, with experience in xib/storyboard, in-code, SwiftUI, and iOS-SDKs. I'm familiar with several architectural patterns such as MVC, MVVM, VIPER, CleanSwift, and Yarch. Over the years, I have gained experience in using databases like CoreData, Realm, and SQL, and tools such as Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, and fastlane.  
@@ -25,41 +18,36 @@ Please feel free to contact me at any time via email (dddron@gmail.com) or phone
 
 Best regards, Andrew
 
-</details>
-
 # In a nutshell
 
-<details>
-  <summary>In a nutshell (open the dropdown)</summary>
-  
 **Andrew Mayer**
 
 **iOS Engineer**
 
 **Contact Information**
-- Location: Yerevan, Armenia
-- Email: dddron@gmail.com
-- LinkedIn: [linkedin.com/in/andreymayer/](https://linkedin.com/in/andreymayer/)
-- GitHub: [github.com/dronnn](https://github.com/Dronnn)
+- **Location:** Yerevan, Armenia
+- **Email:** dddron@gmail.com
+- **LinkedIn:** [linkedin.com/in/andreymayer/](https://linkedin.com/in/andreymayer/)
+- **GitHub:** [github.com/dronnn](https://github.com/Dronnn)
 
 **Profile**  
 
 iOS engineer with over 11 years of experience in the Apple ecosystem. Proficient in Swift, Objective-C, and various iOS SDKs and architectures. Worked with companies of all sizes, with code reaching millions of users worldwide.
 
 **Skills**
-- Languages: Swift, Objective-C
-- User Interface: xib/storyboard, in-code, SwiftUI, iOS-SDKs
-- Frameworks: iOS-SDKs, WatchKit-SDK, ARKit
-- Architectures: MVC, MVVM, VIPER, CleanSwift, Yarch
-- Databases: CoreData, Realm, SQL
-- Other: REST API, JSON/XML, Multitasking/Multithreading, Animations
-- Tools: Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, fastlane
+- **Languages:** Swift, Objective-C
+- **User Interface:** xib/storyboard, in-code, SwiftUI, iOS-SDKs
+- **Frameworks:** iOS-SDKs, WatchKit-SDK, ARKit
+- **Architectures:** MVC, MVVM, VIPER, CleanSwift, Yarch
+- **Databases:** CoreData, Realm, SQL
+- **Other:** REST API, JSON/XML, Multitasking/Multithreading, Animations
+- **Tools:** Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, fastlane
 
 **Language Proficiency**
-- English: Upper-Intermediate (B2-C1)
-- Russian: Native
-- German: Elementary
-- Armenian: Elementary
+- **English:** Upper-Intermediate (B2-C1)
+- **Russian:** Native
+- **German:** Elementary
+- **Armenian:** Elementary
 
 **Experience**
 - Tutor of iOS Development Courses, Yandex Practicum (since 01.2023)
@@ -81,8 +69,6 @@ iOS engineer with over 11 years of experience in the Apple ecosystem. Proficient
 **Personal**  
 
 Happily married with three boys. Enjoys traveling, learning new languages, reading, and watching movies in his spare time.
-
-</details>
 
 # Full length CV
 
@@ -111,23 +97,23 @@ I've worked with companies of all shapes and sizes, and my code has reached mill
 
 📍 Yerevan, Armenia  
 📞 +374-43-057-447  
-📧 email: [dddron@gmail.com](mailto:dddron@gmail.com)  
-💬 Telegram: [t.me/HeinrichMayer](https://t.me/HeinrichMayer)  
-📹 Skype: vanyurin  
-🌐 Linkedin: [linkedin.com/in/andreymayer/](https://linkedin.com/in/andreymayer/)  
-💻 GitHub: [github.com/dronnn](https://github.com/Dronnn)  
-📘 Facebook: [facebook profile](https://www.facebook.com/dddronnn/)  
-🐦 Twitter: [twitter profile](https://twitter.com/dddronnn)  
+📧 **email:** [dddron@gmail.com](mailto:dddron@gmail.com)  
+💬 **Telegram:** [t.me/HeinrichMayer](https://t.me/HeinrichMayer)  
+📹 **Skype:** vanyurin  
+🌐 **Linkedin:** [linkedin.com/in/andreymayer/](https://linkedin.com/in/andreymayer/)  
+💻 **GitHub:** [github.com/dronnn](https://github.com/Dronnn)  
+📘 **Facebook:** [facebook profile](https://www.facebook.com/dddronnn/)  
+🐦 **Twitter:** [twitter profile](https://twitter.com/dddronnn)  
 
 ## Toolbox
 
-🍏 Languages: Swift, Objective-C  
-🎨 User Interface: xib/storyboard, in-code, SwiftUI, iOS-SDKs  
-🖼️ Frameworks: iOS-SDKs, WatchKit-SDK, ARKit  
-🏗️ Architectures: MVC, MVVM, VIPER, CleanSwift, Yarch  
-🗃️ Databases: CoreData, Realm, SQL  
-🌐 Other: REST API, JSON/XML, Multitasking/Multithreading, Animations  
-🛠️ Tools: Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, fastlane  
+🍏 **Languages:** Swift, Objective-C  
+🎨 **User Interface:** xib/storyboard, in-code, SwiftUI, iOS-SDKs  
+🖼️ **Frameworks:** iOS-SDKs, WatchKit-SDK, ARKit  
+🏗️ **Architectures:** MVC, MVVM, VIPER, CleanSwift, Yarch  
+🗃️ **Databases:** CoreData, Realm, SQL  
+🌐 **Other:** REST API, JSON/XML, Multitasking/Multithreading, Animations  
+🛠️ **Tools:** Xcode, Profiler, cocoapods, carthage, spm, Git, Jira, Confluence, circle-ci, fastlane  
 
 ## Personal Snapshot
 
@@ -138,17 +124,17 @@ I've worked with companies of all shapes and sizes, and my code has reached mill
 
 ## Language Proficiency
 
-🇬🇧 English: Upper-Intermediate (B2-C1)  
-🇷🇺 Russian: Native  
-🇩🇪 German: Elementary  
-🇦🇲 Armenian: Elementary  
+🇬🇧 **English:** Upper-Intermediate (B2-C1)  
+🇷🇺 **Russian:** Native  
+🇩🇪 **German:** Elementary  
+🇦🇲 **Armenian:** Elementary  
 
 ## Practical experience 
 
 ### [Yandex Practicum](https://practicum.yandex.ru) (educational cources)  
 📅 since 01.2023  
 👨‍💻 Tutor and Author of an iOS Development Courses (Remote Position)  
-**Projects (chapters):** UICollectionView , Core Data, localization, testing, color scheemes.
+**Projects (chapters):** UICollectionView , Core Data, localization, testing, color scheemes.  
 **Responsibilities:** Student support, conducting webinars, code review.  
 **Technologies used:** Swift, UIKit, CoreData, MVVM-architecture.  
 **Personal results:** as an author, I've revamped and continuously updated a Core Data chapter, addressing critical gaps in the course material. This led to curriculum enhancements that notably elevated the course's clarity and effectiveness. I've also reworked half the Core Data chapter content and optimized a similar proportion of demo projects. In my role as a tutor, I've deepened students' understanding of Collection view, Core Data, localization, color scheeemes, testing, etc. through webinars, which have seen growing attendance. I'm confident that my interactive reviews, answers, and feedback have boosted student performance by about 25%.  
