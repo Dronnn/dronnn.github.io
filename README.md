@@ -52,7 +52,7 @@ iOS engineer with over 11 years of experience in the Apple ecosystem. Proficient
 **Experience**
 - Tutor of iOS Development Courses, Yandex Practicum (since 01.2023)
 - Senior iOS Developer, Tinkoff (01.2023 - 04.2023)
-- Senior iOS Developer, Preezma (04.2022 - 01.2023)
+- Senior iOS Developer, Preezma (04.2022 - 01.2023)(since 05.2023)
 - Senior iOS Developer, Alfabank (11.2020 - 04.2022)
 - iOS Developer, 8bit (11.2019 - 11.2020)
 - iOS Developer, Mirror-AI (06.2018 - 11.2019)
